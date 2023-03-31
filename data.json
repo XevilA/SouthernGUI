@@ -1,0 +1,41 @@
+{
+    "developers": [
+      {
+        "id": 1,
+        "name": "Southern Developer",
+        "email": "dotminiofficial@gmail.com",
+        "skills": ["JavaScript", "React", "Node.js"],
+        "projects": [
+          {
+            "name": "Southern Technology",
+            "description": "AI/ML R&D",
+            "url": "https://github.com/XevilA/SouthernGUI/"
+          },
+          {
+            "name": "KernelExt",
+            "description": "Kernel Extension For Linux",
+            "url": "https://github.com/XevilA/"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "skills": ["Python", "Django", "MySQL"],
+        "projects": [
+          {
+            "name": "Project C",
+            "description": "Nullam eget mauris eget nunc",
+            "url": "https://example.com/project-c"
+          },
+          {
+            "name": "Project D",
+            "description": "Curabitur semper turpis sit amet",
+            "url": "https://example.com/project-d"
+          }
+        ]
+      }
+    ]
+  }
+  
